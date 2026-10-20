@@ -1,12 +1,55 @@
-👨‍💻 Olá! Que bom ter você por aqui!
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F3B82,100:06B6D4&height=200&section=header&text=Birino&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=60&descSize=16"
+    width="100%"
+    alt="Banner futurista Birino"
+  />
+</div>
 
-Transformando ideias em código e conhecimento em soluções. 🚀
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Birino!;Bem-vindo+ao+meu+GitHub!;Estudante+de+Engenharia+de+Software;Aprendendo.+Construindo.+Evoluindo."
+    alt="Texto animado de apresentação"
+  />
+</div>
+</div>---
 
-- 🔭 Atualmente trabalhando em: Projetos 3D e soluções tecnológicas.
-- 🌱 Atualmente aprendendo: Engenharia de Software, programação em C, Python e Inteligência Artificial.
-- 👯 Busco colaborar em: Projetos de programação, tecnologia e desenvolvimento de software.
-- 🤔 Busco ajuda com: Lógica de programação, desenvolvimento de sistemas e boas práticas de código.
-- ⚡ Curiosidade: Gosto de transformar ideias em projetos e explorar como a tecnologia pode resolver problemas do dia a dia.
+🇧🇷 Sobre mim
+
+Olá! Seja bem-vindo ao meu perfil! 👋
+
+Meu nome é Luiz Felipe Birino, também conhecido como Birino, e sou estudante de Engenharia de Software.
+
+Estou construindo minha jornada na tecnologia, desenvolvendo minha lógica de programação e aprendendo a transformar ideias em soluções por meio do código.
+
+Tenho interesse em desenvolvimento de software, inteligência artificial, criação de jogos e novas tecnologias. Utilizo este espaço para compartilhar meus estudos, projetos e minha evolução como desenvolvedor.
+
+- 🎓 Estudante de Engenharia de Software.
+- 💻 Aprendendo programação e desenvolvimento de software.
+- 🧠 Explorando inteligência artificial e suas aplicações.
+- 🎮 Interessado em desenvolvimento de jogos e realidade virtual.
+- 🚀 Buscando uma oportunidade de estágio para aprender, colaborar e crescer profissionalmente.
+
+🇺🇸 About me
+
+Hello! Welcome to my GitHub profile! 👋
+
+My name is Luiz Felipe Birino, also known as Birino, and I'm a Software Engineering student.
+
+I'm building my journey in technology, improving my programming logic, and learning how to turn ideas into software solutions.
+
+I'm interested in software development, artificial intelligence, game development, and emerging technologies. I use this space to share my learning journey, projects, and progress as a developer.
+
+- 🎓 Software Engineering student.
+- 💻 Learning programming and software development.
+- 🧠 Exploring artificial intelligence and its applications.
+- 🎮 Interested in game development and virtual reality.
+- 🚀 Looking for an internship where I can learn, contribute, and grow professionally.
+
+---
+
+🛠️ Tecnologias e ferramentas | Technologies & Tools
+
 ###
 
 <div data-importer="techs" align="center">
