@@ -7,9 +7,6 @@ Transformando ideias em código e conhecimento em soluções. 🚀
 - 👯 Busco colaborar em: Projetos de programação, tecnologia e desenvolvimento de software.
 - 🤔 Busco ajuda com: Lógica de programação, desenvolvimento de sistemas e boas práticas de código.
 - ⚡ Curiosidade: Gosto de transformar ideias em projetos e explorar como a tecnologia pode resolver problemas do dia a dia.
-
-<h1 data-importer="text" align="left">👨‍💻 Olá! Que bom ter você por aqui!<br><br>Transformando ideias em código e conhecimento em soluções. 🚀</h1>
-
 ###
 
 <div data-importer="techs" align="center">
