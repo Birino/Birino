@@ -93,3 +93,7 @@ I'm interested in software development, artificial intelligence, game developmen
 </picture>
 
 ###
+
+<!--START_SECTION:duolingoStats-->
+
+<!--END_SECTION:duolingoStats-->
