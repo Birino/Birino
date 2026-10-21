@@ -81,7 +81,8 @@ I'm interested in software development, artificial intelligence, game developmen
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://streak-stats.demolab.com?user=Birino&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  
+<img src="https://streak-stats.demolab.com?user=Birino&locale=pt-br&timezone=America%2FSao_Paulo&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%2Fn%2F%5BY%5D&order=3" height="150" alt="Sequência de contribuições do GitHub" />
 </div>
 
 ###
