@@ -97,7 +97,7 @@ jobs:
           def esc(value):
               return html.escape(str(value), quote=True)
 
-          height = 300 + max(1, len(languages)) * 42 + 50
+          height = 400 + len(languages) * 42
           svg = [
               f'<svg xmlns="http://www.w3.org/2000/svg" width="900" height="{height}" viewBox="0 0 900 {height}">',
               '<rect width="900" height="100%" rx="24" fill="#F0FDF4"/>',
