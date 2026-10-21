@@ -29,4 +29,5 @@
 <rect x="25" y="344" width="850" height="34" rx="9" fill="#FFFFFF" stroke="#DCFCE7"/>
 <text x="40" y="366" font-family="Arial,sans-serif" font-size="14" fill="#166534">Japanese (from  Portuguese)</text>
 <text x="850" y="366" text-anchor="end" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#15803D">74 XP</text>
+<rect x="1" y="524" width="898" height="2" fill="#F0FDF4"/>
 </svg>
