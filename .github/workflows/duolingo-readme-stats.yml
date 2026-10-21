@@ -152,7 +152,7 @@ jobs:
               svg.append(
                   f'<text x="30" y="{lang_y+30}" font-family="Arial,sans-serif" font-size="13" fill="#64748B">Dados de idiomas não encontrados nesta atualização.</text>'
               )
-
+          svg.append(f'<rect x="1" y="{height-2}" width="898" height="2" fill="#F0FDF4"/>')
           svg.append('</svg>')
           Path("duolingo-stats.svg").write_text("\n".join(svg), encoding="utf-8")
 
