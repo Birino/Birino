@@ -47,6 +47,7 @@ I'm interested in software development, artificial intelligence, game developmen
 - 🚀 Looking for an internship where I can learn, contribute, and grow professionally.
 
 ---
+ <img src="./Gif.gif" width="300" alt="Meu GIF de perfil" /> 
 
 🛠️ Tecnologias e ferramentas | Technologies & Tools
 
